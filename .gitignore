@@ -1,0 +1,3 @@
+.aws
+.terraform*
+.vscode-upload.json
