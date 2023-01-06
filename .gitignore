@@ -2,3 +2,5 @@
 .terraform*
 .vscode-upload.json
 terraform.tfstate*
+main-key.ppk
+main2-key.pem
