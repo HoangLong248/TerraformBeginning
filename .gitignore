@@ -2,4 +2,3 @@
 .terraform*
 .vscode-upload.json
 terraform.tfstate*
-*key*
